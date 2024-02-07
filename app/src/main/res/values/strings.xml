@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fav. Place</string>
+    <string name="todo" />
+    <string name="text_no_image" />
+    <string name="button_open_new_image" />
+    <string name="action_detele" />
+    <string name="action_save" />
+</resources>
